@@ -13,6 +13,8 @@
 		C35B166D2C4AA0FD00A7B7D2 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = C35B166C2C4AA0FD00A7B7D2 /* Base */; };
 		C35B166F2C4AA10200A7B7D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C35B166E2C4AA10200A7B7D2 /* Assets.xcassets */; };
 		C35B16722C4AA10200A7B7D2 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = C35B16712C4AA10200A7B7D2 /* Base */; };
+		C35B16792C4AA14300A7B7D2 /* HarryPoter.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = C35B16782C4AA14300A7B7D2 /* HarryPoter.mp4 */; };
+		C37A5AA92C4BD6950037019D /* harryPotter.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C37A5AA82C4BD6950037019D /* harryPotter.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +25,8 @@
 		C35B166C2C4AA0FD00A7B7D2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C35B166E2C4AA10200A7B7D2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C35B16712C4AA10200A7B7D2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C35B16782C4AA14300A7B7D2 /* HarryPoter.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = HarryPoter.mp4; sourceTree = "<group>"; };
+		C37A5AA82C4BD6950037019D /* harryPotter.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = harryPotter.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 		C35B16642C4AA0FD00A7B7D2 /* MagicPaper */ = {
 			isa = PBXGroup;
 			children = (
+				C35B16782C4AA14300A7B7D2 /* HarryPoter.mp4 */,
+				C37A5AA82C4BD6950037019D /* harryPotter.mp3 */,
 				C35B16652C4AA0FD00A7B7D2 /* AppDelegate.swift */,
 				C35B16672C4AA0FD00A7B7D2 /* art.scnassets */,
 				C35B16692C4AA0FD00A7B7D2 /* ViewController.swift */,
@@ -126,7 +132,9 @@
 				C35B16682C4AA0FD00A7B7D2 /* art.scnassets in Resources */,
 				C35B166F2C4AA10200A7B7D2 /* Assets.xcassets in Resources */,
 				C35B166D2C4AA0FD00A7B7D2 /* Base in Resources */,
+				C35B16792C4AA14300A7B7D2 /* HarryPoter.mp4 in Resources */,
 				C35B16722C4AA10200A7B7D2 /* Base in Resources */,
+				C37A5AA92C4BD6950037019D /* harryPotter.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
